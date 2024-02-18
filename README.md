@@ -1,6 +1,6 @@
 ## LnT Mid Project BackEnd Development BNCC
-Reynard Hans Prayoga
-<br> BNCC2301081
+Reynard Hans Prayoga\
+BNCC2301081\
 Perlu menuliskan beberapa command (***melalui command prompt***) sebelum menjalankan program\
 
 `composer install`\
