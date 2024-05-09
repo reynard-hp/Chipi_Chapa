@@ -6,8 +6,8 @@ Perlu menuliskan beberapa command (***melalui command prompt***) sebelum menjala
 `composer install`\
 `cp .env.example .env`\
 `php artisan key:generate`\
-`php artisan migrate –seed`\
-`php artisan storage:link`\
+`php artisan migrate:fresh –-seed`\
+`php artisan storage:link`
 
 Lalu jalankan
 `php artisan serve`
